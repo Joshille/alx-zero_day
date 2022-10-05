@@ -1,0 +1,3 @@
+git fetch master
+git merge origin/master
+touch up_to_date
